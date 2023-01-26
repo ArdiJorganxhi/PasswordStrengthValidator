@@ -1,4 +1,4 @@
-# Password Validator
+# Password Strength Validator
 This is a simple program validating strength of passwords.
 
 A password is considered "weak" in following conditions:
